@@ -1,9 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.routes.schemes import router as schemes_router
-from backend.routes.recommend import router as recommend_router
-from backend.routes.report import router as report_router
+from routes.schemes import router as schemes_router
+from routes.recommend import router as recommend_router
+from routes.report import router as report_router
 
 
 app = FastAPI()
