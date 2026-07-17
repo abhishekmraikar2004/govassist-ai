@@ -1,0 +1,422 @@
+[
+  {
+    "name": "PM Internship Scheme",
+    "description": "Internship opportunities for youth to gain practical experience with Indian MSMEs and government-linked organizations.",
+    "state": "All India",
+    "category": "Student",
+    "incomeLimit": 800000,
+    "benefits": "Paid internship and skill development; potential certificate of completion.",
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Income Certificate"
+    ],
+    "timeline": {
+      "applicationStart": "15 July",
+      "applicationDeadline": "30 August"
+    },
+    "applicationStart": "15 July",
+    "applicationDeadline": "30 August",
+    "status": "Open",
+    "officialWebsite": "https://pminternship.mca.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (Urban) - CLSS",
+    "description": "Credit Linked Subsidy Scheme (CLSS) under PMAY-U to provide interest subsidy for affordable housing loans.",
+    "state": "All India",
+    "category": "Housing",
+    "incomeLimit": 120000,
+    "benefits": "Interest subsidy on housing loans; lower EMI burden.",
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "timeline": {
+      "applicationStart": "01 April",
+      "applicationDeadline": "30 June"
+    },
+    "applicationStart": "01 April",
+    "applicationDeadline": "30 June",
+    "status": "Seasonal",
+    "officialWebsite": "https://pmaymis.gov.in"
+  },
+  {
+    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "description": "Health insurance scheme providing cashless benefits for eligible beneficiaries.",
+    "state": "All India",
+    "category": "Healthcare",
+    "incomeLimit": 500000,
+    "benefits": "Up to 5 lakh rupees health coverage annually; cashless treatment.",
+    "documents": [
+      "Aadhaar",
+      "Ration Card",
+      "Mobile Number"
+    ],
+    "timeline": {
+      "applicationStart": "Anytime",
+      "applicationDeadline": "No fixed deadline"
+    },
+    "applicationStart": "Anytime",
+    "applicationDeadline": "No fixed deadline",
+    "status": "Open",
+    "officialWebsite": "https://pmjay.gov.in"
+  },
+  {
+    "name": "Scholarship Scheme for Students with Disabilities (SSPD)",
+    "description": "Financial assistance for students with disabilities to support education and living expenses.",
+    "state": "All India",
+    "category": "Education",
+    "incomeLimit": 250000,
+    "benefits": "Scholarship amount for tuition and disability-related support.",
+    "documents": [
+      "Disability Certificate",
+      "Aadhaar",
+      "School/College ID"
+    ],
+    "timeline": {
+      "applicationStart": "01 August",
+      "applicationDeadline": "15 September"
+    },
+    "applicationStart": "01 August",
+    "applicationDeadline": "15 September",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.scholarships.gov.in"
+  },
+  {
+    "name": "PM-KISAN",
+    "description": "Direct income support to eligible farmer families to improve financial stability.",
+    "state": "All India",
+    "category": "Agriculture",
+    "incomeLimit": 0,
+    "benefits": "INR 6,000 per year in three installments.",
+    "documents": [
+      "Aadhaar",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "timeline": {
+      "applicationStart": "01 March",
+      "applicationDeadline": "31 March"
+    },
+    "applicationStart": "01 March",
+    "applicationDeadline": "31 March",
+    "status": "Open",
+    "officialWebsite": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Ujjwala Yojana",
+    "description": "Financial assistance for eligible households to obtain LPG connections for cleaner cooking.",
+    "state": "All India",
+    "category": "Energy",
+    "incomeLimit": 850000,
+    "benefits": "LPG connection with support for cylinder, regulator, and stove.",
+    "documents": [
+      "Aadhaar",
+      "BPL/Eligibility document",
+      "Ration Card"
+    ],
+    "timeline": {
+      "applicationStart": "Anytime",
+      "applicationDeadline": "No fixed deadline"
+    },
+    "applicationStart": "Anytime",
+    "applicationDeadline": "No fixed deadline",
+    "status": "Open",
+    "officialWebsite": "https://www.pmuy.gov.in"
+  },
+  {
+    "name": "National Scholarship Portal (NSP) - Central Schemes",
+    "description": "Central and state scholarship schemes administered via the National Scholarship Portal.",
+    "state": "All India",
+    "category": "Education",
+    "incomeLimit": 200000,
+    "benefits": "Scholarship for tuition, maintenance and other allowances (varies by scheme).",
+    "documents": [
+      "Aadhaar",
+      "Bank Account",
+      "Academic Records"
+    ],
+    "timeline": {
+      "applicationStart": "01 July",
+      "applicationDeadline": "31 October"
+    },
+    "applicationStart": "01 July",
+    "applicationDeadline": "31 October",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.scholarships.gov.in"
+  },
+  {
+    "name": "Startup India Seed Fund (SISF)",
+    "description": "Seed support for startups to validate innovation and build early products.",
+    "state": "All India",
+    "category": "Entrepreneurship",
+    "incomeLimit": 0,
+    "benefits": "Grant support and mentorship for eligible startups.",
+    "documents": [
+      "Business Registration",
+      "Pitch Deck",
+      "KYC"
+    ],
+    "timeline": {
+      "applicationStart": "01 May",
+      "applicationDeadline": "30 June"
+    },
+    "applicationStart": "01 May",
+    "applicationDeadline": "30 June",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.startupindia.gov.in"
+  },
+  {
+    "name": "PM Formalization of Micro Food Processing Enterprises (PM Formalisation of MFPO)",
+    "description": "Support for micro food processing enterprises to improve formalization and operations.",
+    "state": "All India",
+    "category": "Food & Agri",
+    "incomeLimit": 0,
+    "benefits": "Assistance for formalization, training, and capacity building.",
+    "documents": [
+      "Business Proof",
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "timeline": {
+      "applicationStart": "10 January",
+      "applicationDeadline": "28 February"
+    },
+    "applicationStart": "10 January",
+    "applicationDeadline": "28 February",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.meity.gov.in"
+  },
+  {
+    "name": "Swachh Bharat Mission (SBM) - Individual Household Latrine (IHHL)",
+    "description": "Financial assistance and support for household toilets to improve sanitation.",
+    "state": "All India",
+    "category": "Sanitation",
+    "incomeLimit": 300000,
+    "benefits": "Subsidy for toilet construction and related support (as per eligibility).",
+    "documents": [
+      "Aadhaar",
+      "Proof of address",
+      "Bank Details"
+    ],
+    "timeline": {
+      "applicationStart": "01 April",
+      "applicationDeadline": "31 May"
+    },
+    "applicationStart": "01 April",
+    "applicationDeadline": "31 May",
+    "status": "Seasonal",
+    "officialWebsite": "https://sbm.gov.in"
+  },
+  {
+    "name": "Skill India - PMKVY (Pradhan Mantri Kaushal Vikas Yojana)",
+    "description": "Government skill training scheme for youth with job-oriented certification.",
+    "state": "All India",
+    "category": "Employment",
+    "incomeLimit": 500000,
+    "benefits": "Training, certification, and placement support (varies by batch).",
+    "documents": [
+      "Aadhaar",
+      "Education Proof",
+      "Bank Account"
+    ],
+    "timeline": {
+      "applicationStart": "01 February",
+      "applicationDeadline": "31 March"
+    },
+    "applicationStart": "01 February",
+    "applicationDeadline": "31 March",
+    "status": "Open",
+    "officialWebsite": "https://www.skillindia.gov.in"
+  },
+  {
+    "name": "Ayushman Bharat - SEHAT (Hospital Enrollment)",
+    "description": "Enrollment and operational framework for hospitals and beneficiaries to access SEHAT services.",
+    "state": "All India",
+    "category": "Healthcare",
+    "incomeLimit": 0,
+    "benefits": "Access to empanelled health services.",
+    "documents": [
+      "Aadhaar",
+      "Hospital/Beneficiary documents (varies)"
+    ],
+    "timeline": {
+      "applicationStart": "Anytime",
+      "applicationDeadline": "No fixed deadline"
+    },
+    "applicationStart": "Anytime",
+    "applicationDeadline": "No fixed deadline",
+    "status": "Open",
+    "officialWebsite": "https://pmjay.gov.in"
+  },
+  {
+    "name": "DRDO Technology Development Fund (TDF)",
+    "description": "Funding support to develop technologies through DRDO-approved pathways.",
+    "state": "All India",
+    "category": "Research",
+    "incomeLimit": 0,
+    "benefits": "Grants for technology development and commercialization readiness.",
+    "documents": [
+      "Project Proposal",
+      "Company/Institute Details",
+      "KYC"
+    ],
+    "timeline": {
+      "applicationStart": "01 September",
+      "applicationDeadline": "30 September"
+    },
+    "applicationStart": "01 September",
+    "applicationDeadline": "30 September",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.drdo.gov.in"
+  },
+  {
+    "name": "National Pension System (NPS) - Contribution Assistance",
+    "description": "Assistance and guidance for eligible citizens to join NPS and secure retirement.",
+    "state": "All India",
+    "category": "Retirement",
+    "incomeLimit": 0,
+    "benefits": "Retirement corpus building and tax benefits (as per rules).",
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Bank Account"
+    ],
+    "timeline": {
+      "applicationStart": "Anytime",
+      "applicationDeadline": "No fixed deadline"
+    },
+    "applicationStart": "Anytime",
+    "applicationDeadline": "No fixed deadline",
+    "status": "Open",
+    "officialWebsite": "https://www.nps.gov.in"
+  },
+  {
+    "name": "e-Shram (Unorganised Workers Registration)",
+    "description": "Registration platform for unorganised workers to access social security schemes.",
+    "state": "All India",
+    "category": "Employment",
+    "incomeLimit": 0,
+    "benefits": "Identification number and access to welfare schemes.",
+    "documents": [
+      "Aadhaar",
+      "Mobile Number"
+    ],
+    "timeline": {
+      "applicationStart": "Anytime",
+      "applicationDeadline": "No fixed deadline"
+    },
+    "applicationStart": "Anytime",
+    "applicationDeadline": "No fixed deadline",
+    "status": "Open",
+    "officialWebsite": "https://eshram.gov.in"
+  },
+  {
+    "name": "National Education Scholarship Scheme (NESA) - State/Center Mix",
+    "description": "Scholarship support for meritorious students across education levels.",
+    "state": "All India",
+    "category": "Education",
+    "incomeLimit": 180000,
+    "benefits": "Scholarship amount for tuition and academic support.",
+    "documents": [
+      "Aadhaar",
+      "Academic Records",
+      "Parent/Guardian Income Proof"
+    ],
+    "timeline": {
+      "applicationStart": "01 August",
+      "applicationDeadline": "31 October"
+    },
+    "applicationStart": "01 August",
+    "applicationDeadline": "31 October",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.scholarships.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (Crop Insurance)",
+    "description": "Crop insurance scheme to protect farmers from losses due to natural calamities.",
+    "state": "All India",
+    "category": "Agriculture",
+    "incomeLimit": 0,
+    "benefits": "Insurance coverage for crops during notified season.",
+    "documents": [
+      "Khasra/Kisan Registration",
+      "Land Records",
+      "Bank Account"
+    ],
+    "timeline": {
+      "applicationStart": "01 July",
+      "applicationDeadline": "31 August"
+    },
+    "applicationStart": "01 July",
+    "applicationDeadline": "31 August",
+    "status": "Seasonal",
+    "officialWebsite": "https://pmfby.gov.in"
+  },
+  {
+    "name": "One Nation One Ration Card (ONORC) - Portability",
+    "description": "Support for portability of ration across states using Aadhaar-linked ration cards.",
+    "state": "All India",
+    "category": "Food Security",
+    "incomeLimit": 0,
+    "benefits": "Ration availability in home and destination states (as per eligibility).",
+    "documents": [
+      "Aadhaar",
+      "Ration Card",
+      "Mobile Number"
+    ],
+    "timeline": {
+      "applicationStart": "Anytime",
+      "applicationDeadline": "No fixed deadline"
+    },
+    "applicationStart": "Anytime",
+    "applicationDeadline": "No fixed deadline",
+    "status": "Open",
+    "officialWebsite": "https://nfsa.gov.in"
+  },
+  {
+    "name": "National Scheme for Promotion of Employment through Skill Training (NAPS-SKILL)",
+    "description": "Skill training and placement support for unemployed youth.",
+    "state": "All India",
+    "category": "Employment",
+    "incomeLimit": 400000,
+    "benefits": "Training stipends and job assistance (varies by program).",
+    "documents": [
+      "Aadhaar",
+      "Education Proof",
+      "Bank Account"
+    ],
+    "timeline": {
+      "applicationStart": "01 June",
+      "applicationDeadline": "30 June"
+    },
+    "applicationStart": "01 June",
+    "applicationDeadline": "30 June",
+    "status": "Seasonal",
+    "officialWebsite": "https://www.ncs.gov.in"
+  },
+  {
+    "name": "PM-SVANidhi (Street Vendor Support)",
+    "description": "Collateral-free working capital loans for street vendors to restart and grow businesses.",
+    "state": "All India",
+    "category": "Entrepreneurship",
+    "incomeLimit": 0,
+    "benefits": "Loan up to a set limit; repayment in instalments (scheme rules apply).",
+    "documents": [
+      "Vendor ID",
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "timeline": {
+      "applicationStart": "10 January",
+      "applicationDeadline": "31 March"
+    },
+    "applicationStart": "10 January",
+    "applicationDeadline": "31 March",
+    "status": "Open",
+    "officialWebsite": "https://pmsvanidhi.mohua.gov.in"
+  }
+]
+
