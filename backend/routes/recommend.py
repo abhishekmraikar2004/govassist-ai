@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from backend.models.user import UserProfile
+from models.user import UserProfile
 from pathlib import Path
 import json
 
