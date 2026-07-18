@@ -20,14 +20,14 @@ export default function Hero() {
         </p>
 
         <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:items-center">
-          <a
-            href="#find"
+          <Link
+            to="/recommend"
             className="inline-flex items-center justify-center rounded-xl bg-blue-700 px-6 py-3 font-semibold text-white shadow-sm transition hover:bg-blue-800"
           >
             Find My Schemes
-          </a>
+          </Link>
           <div className="text-sm text-slate-500">
-            No login needed • No AI recommendation yet
+  
           </div>
         </div>
       </div>

@@ -1,13 +1,10 @@
-import axios from 'axios'
-
-const baseURL = "https://govassist-ai-2.onrender.com"
+import axios from "axios";
 
 const api = axios.create({
-  baseURL,
+  baseURL: "https://govassist-ai-2.onrender.com",
   headers: {
-    'Content-Type': 'application/json',
+    "Content-Type": "application/json",
   },
-})
+});
 
-export default api
-
+export default api;
