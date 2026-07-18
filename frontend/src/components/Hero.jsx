@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 export default function Hero() {
   return (
     <section className="mt-10 grid items-center gap-10 lg:grid-cols-2">
@@ -26,9 +27,7 @@ export default function Hero() {
           >
             Find My Schemes
           </Link>
-          <div className="text-sm text-slate-500">
-  
-          </div>
+          <div className="text-sm text-slate-500"></div>
         </div>
       </div>
 
