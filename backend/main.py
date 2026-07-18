@@ -5,47 +5,46 @@ from routes.schemes import router as schemes_router
 from routes.recommend import router as recommend_router
 from routes.report import router as report_router
 
+app = FastAPI(
+    title="GovAssist AI",
+    version="0.1.0",
+)
 
-app = FastAPI()
+# Allowed frontend origins
+origins = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "http://localhost:8000",
 
+    # Vercel frontend
+    "https://govassist-hefeurkp9-abhishek-m-raikers-projects.vercel.app",
 
+    # Optional: your custom Vercel production URL
+    "https://govassist-ai-opal.vercel.app",
+]
 
+# Enable CORS
+from fastapi.middleware.cors import CORSMiddleware
 
-
-# basic check endpoint for load balancers / health checks
-@app.get("/health")
-def health():
-    return {"status": "ok"}
-
-# CORS: allow local frontend dev server to call this API.
-# NOTE: For production, lock this down to your deployed frontend origin.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173", "http://localhost:8000"],
+    allow_origin_regex="https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# API routes
+# Health check
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+# Root endpoint
+@app.get("/")
+def home():
+    return {"message": "GovAssist AI Backend Running"}
+
+# Register API routes
 app.include_router(schemes_router)
 app.include_router(recommend_router)
 app.include_router(report_router)
-
-
-
-
-
-
-
-
-
-
-
-@app.get("/")
-def home():
-    """Root endpoint to verify backend is running."""
-    return {"message": "GovAssist AI Backend Running"}
-
-
-
